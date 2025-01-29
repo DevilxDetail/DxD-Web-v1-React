@@ -1,15 +1,15 @@
 import React from 'react'
-
-import { Helmet } from 'react-helmet'
+import { Helmet } from 'react-helmet-async'
 
 import './home.css'
 
 const Home = (props) => {
+  console.log('Home component rendering')
   return (
     <div className="home-container10">
       <Helmet>
-        <title>exported project</title>
-        <meta property="og:title" content="exported project" />
+        <title>Devil x Detail</title>
+        <meta property="og:title" content="Devil x Detail" />
       </Helmet>
       <div className="home-container11">
         <div data-thq="thq-dropdown" className="home-thq-dropdown list-item">
@@ -20,9 +20,9 @@ const Home = (props) => {
                   d="M3 5h18M3 12h18M3 19h18"
                   fill="none"
                   stroke="currentColor"
-                  stroke-width="1.5"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="1.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 ></path>
               </svg>
             </div>
