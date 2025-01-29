@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Helmet } from 'react-helmet'
+import { Helmet } from 'react-helmet-async'
 
 import './faq.css'
 
@@ -143,7 +143,7 @@ const FAQ = (props) => {
               <div data-thq="accordion-content">
                 <div className="faq-container17">
                   <p className="faq-text17">
-                    No, you don’t need to have a crypto wallet to receive your
+                    No, you don't need to have a crypto wallet to receive your
                     digital assets. When you create an account with your email
                     or phone number, we create a crypto wallet for you. You
                     always have the option to export assets to a sovereign
