@@ -1,0 +1,1249 @@
+.terms-of-service-container10 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-fiveunits);
+  background-color: #e7e7dd;
+}
+ 
+.terms-of-service-container11 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-self: center;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: flex-end;
+}
+ 
+.terms-of-service-thq-dropdown {
+  top: 0px;
+  left: 0px;
+  cursor: pointer;
+  display: inline-block;
+  position: absolute;
+  border-radius: 0px;
+}
+ 
+.terms-of-service-dropdown-toggle1 {
+  fill: #595959;
+  color: #595959;
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: 40px;
+  border-radius: var(--dl-radius-radius-radius2);
+  padding-right: 40px;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-dropdown-arrow {
+  transition: 0.3s;
+}
+ 
+.terms-of-service-dropdown-list {
+  left: 40px;
+  width: max-content;
+  display: none;
+  z-index: 100;
+  position: absolute;
+  min-width: 100%;
+  transition: 0.3s;
+  align-items: stretch;
+  border-color: #D9D9D9;
+  border-width: 0px;
+  border-radius: 0px;
+  flex-direction: column;
+  list-style-type: none;
+  background-color: #e7e7dd;
+  list-style-position: inside;
+}
+ 
+.terms-of-service-dropdown1 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+ 
+.terms-of-service-dropdown-toggle2 {
+  fill: #595959;
+  color: #6b6b6b;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: 0px;
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: 15px;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-dropdown-toggle2:hover {
+  fill: #fff;
+  color: #000000;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 0px;
+  border-radius: 0px;
+}
+ 
+.terms-of-service-my-account {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 16px;
+  font-style: normal;
+  font-family: "Marcellus";
+  font-weight: 500;
+}
+ 
+.terms-of-service-dropdown2 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+ 
+.terms-of-service-dropdown-toggle3 {
+  fill: #595959;
+  color: #6b6b6b;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: 0px;
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: 15px;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-dropdown-toggle3:hover {
+  fill: #fff;
+  color: #000000;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 0px;
+  border-radius: 0px;
+}
+ 
+.terms-of-service-drops {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 16px;
+  font-style: normal;
+  font-family: "Marcellus";
+  font-weight: 400;
+}
+ 
+.terms-of-service-dropdown3 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+ 
+.terms-of-service-dropdown-toggle4 {
+  fill: #595959;
+  color: #6b6b6b;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: 0px;
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: 15px;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-dropdown-toggle4:hover {
+  fill: #fff;
+  color: #000000;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 0px;
+  border-radius: 0px;
+}
+ 
+.terms-of-service-thoughts {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 16px;
+  font-style: normal;
+  font-family: "Marcellus";
+  font-weight: 400;
+}
+ 
+.terms-of-service-dropdown4 {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+ 
+.terms-of-service-dropdown-toggle5 {
+  fill: #595959;
+  color: #6b6b6b;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: 0px;
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: 15px;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-dropdown-toggle5:hover {
+  fill: #fff;
+  color: #000000;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 0px;
+  border-radius: 0px;
+}
+ 
+.terms-of-service-affinity {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 16px;
+  font-style: normal;
+  font-family: "Marcellus";
+  font-weight: 400;
+}
+ 
+.terms-of-service-dropdown5 {
+  cursor: pointer;
+  display: none;
+  position: relative;
+  border-radius: var(--dl-radius-radius-radius2);
+}
+ 
+.terms-of-service-dropdown-toggle6 {
+  fill: #595959;
+  color: #6b6b6b;
+  width: 100%;
+  display: inline-flex;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: 0px;
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: 15px;
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-dropdown-toggle6:hover {
+  fill: #fff;
+  color: #000000;
+  border-color: var(--dl-color-theme-neutral-dark);
+  border-width: 0px;
+  border-radius: 0px;
+}
+ 
+.terms-of-service-about-us {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  font-size: 16px;
+  font-style: normal;
+  font-family: "Marcellus";
+  font-weight: 400;
+}
+ 
+.terms-of-service-icon-black {
+  top: 0px;
+  left: 0px;
+  width: auto;
+  height: 40px;
+  display: none;
+  position: absolute;
+  object-fit: cover;
+  margin-left: 20px;
+}
+ 
+.terms-of-service-text-black {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 140px;
+  bottom: 0px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+}
+ 
+.terms-of-service-container12 {
+  flex: 0 0 auto;
+  width: 33%;
+  height: 40px;
+  display: flex;
+  align-self: center;
+  margin-top: 0px;
+  align-items: flex-start;
+  padding-right: 40px;
+  justify-content: flex-end;
+}
+ 
+.terms-of-service-text100 {
+  align-self: center;
+  font-family: "Marcellus";
+  margin-right: 20px;
+}
+ 
+.terms-of-service-button {
+  color: #ffffff;
+  width: 100px;
+  height: 36px;
+  align-self: center;
+  transition: 0.3s;
+  font-family: "Lato";
+  padding-top: 0px;
+  border-color: #300000;
+  padding-left: 0px;
+  border-radius: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  background-color: #230102;
+}
+ 
+.terms-of-service-button:hover {
+  background-color: #6b2125;
+}
+ 
+.terms-of-service-container13 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.terms-of-service-container14 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.terms-of-service-container15 {
+  flex: 0 0 auto;
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  padding-top: var(--dl-space-space-threeunits);
+  padding-left: 40px;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-threeunits);
+  justify-content: flex-start;
+}
+ 
+.terms-of-service-text102 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text103 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text104 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text105 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text106 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text107 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text108 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text109 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text110 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text111 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text112 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text113 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text114 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text116 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text117 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text119 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text120 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text121 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text122 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text123 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text124 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text125 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text126 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text127 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text129 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text130 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text132 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text133 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text134 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text135 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text136 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text137 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text138 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text139 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text141 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text142 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text144 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text145 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text147 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text148 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text150 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text151 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text152 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text153 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text154 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text156 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text157 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text159 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text160 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text162 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text163 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text164 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text165 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text166 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text167 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text168 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text169 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text170 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text171 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text172 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text173 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text174 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text175 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text176 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text177 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text178 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text179 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text180 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text181 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text182 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text183 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text184 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text185 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text186 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text187 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text188 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text189 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text190 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text191 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text192 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text193 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text194 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text195 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text196 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text197 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text198 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text199 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text200 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text201 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text202 {
+  font-family: "Lato";
+}
+ 
+.terms-of-service-text203 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-text204 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+}
+ 
+.terms-of-service-container16 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-self: center;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.terms-of-service-container17 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+}
+ 
+.terms-of-service-container18 {
+  flex: 0 0 auto;
+  height: auto;
+  display: flex;
+  max-width: var(--dl-size-size-xlarge);
+  align-self: flex-start;
+  align-items: flex-start;
+  padding-left: 40px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.terms-of-service-text206 {
+  align-self: flex-start;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+  margin-right: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-text207 {
+  align-self: flex-start;
+  transition: 0.3s;
+  font-family: "Lato";
+  margin-right: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+  text-decoration: none;
+}
+ 
+.terms-of-service-text207:hover {
+  color: #8c8484;
+}
+ 
+.terms-of-service-link {
+  align-self: flex-start;
+  transition: 0.3s;
+  font-family: "Lato";
+  margin-right: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+  text-decoration: none;
+}
+ 
+.terms-of-service-link:hover {
+  color: #8c8484;
+}
+ 
+.terms-of-service-container19 {
+  flex: 0 0 auto;
+  height: auto;
+  display: flex;
+  max-width: var(--dl-size-size-xlarge);
+  align-self: flex-start;
+  align-items: flex-start;
+  padding-left: 40px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.terms-of-service-text208 {
+  align-self: flex-start;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+  margin-right: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-text209 {
+  align-self: flex-start;
+  transition: 0.3s;
+  font-family: "Lato";
+  margin-right: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-text209:hover {
+  color: #8c8484;
+}
+ 
+.terms-of-service-text210 {
+  align-self: flex-start;
+  transition: 0.3s;
+  font-family: "Lato";
+  margin-right: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-text210:hover {
+  color: #8c8484;
+}
+ 
+.terms-of-service-container20 {
+  flex: 0 0 auto;
+  height: auto;
+  display: flex;
+  max-width: var(--dl-size-size-xlarge);
+  align-self: flex-start;
+  align-items: flex-start;
+  padding-left: 40px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.terms-of-service-text211 {
+  align-self: flex-start;
+  font-style: normal;
+  font-family: "Lato";
+  font-weight: 700;
+  margin-right: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-text212 {
+  align-self: flex-start;
+  transition: 0.3s;
+  font-family: "Lato";
+  margin-right: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-text212:hover {
+  color: #8c8484;
+}
+ 
+.terms-of-service-text213 {
+  align-self: flex-start;
+  transition: 0.3s;
+  font-family: "Lato";
+  margin-right: 20px;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+ 
+.terms-of-service-text213:hover {
+  color: #8c8484;
+}
+ 
+.terms-of-service-text214 {
+  align-self: flex-start;
+  text-align: right;
+  font-family: "Lato";
+  padding-right: 40px;
+}
+ 
+@media(max-width: 1600px) {
+  .terms-of-service-dropdown5 {
+    display: none;
+  }
+  .terms-of-service-icon-black {
+    display: none;
+  }
+}
+ 
+@media(max-width: 1200px) {
+  .terms-of-service-dropdown5 {
+    display: none;
+  }
+  .terms-of-service-icon-black {
+    display: none;
+  }
+}
+ 
+@media(max-width: 991px) {
+  .terms-of-service-dropdown-list {
+    border-width: 0px;
+    border-radius: 0px;
+  }
+  .terms-of-service-my-account {
+    font-size: 16px;
+    font-style: normal;
+    font-family: Marcellus;
+    font-weight: 400;
+  }
+  .terms-of-service-drops {
+    font-size: 16px;
+    font-style: normal;
+    font-family: Marcellus;
+    font-weight: 400;
+  }
+  .terms-of-service-dropdown5 {
+    display: none;
+  }
+  .terms-of-service-icon-black {
+    display: none;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .terms-of-service-dropdown-toggle1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .terms-of-service-dropdown-list {
+    left: 20px;
+  }
+  .terms-of-service-dropdown5 {
+    display: inline-block;
+  }
+  .terms-of-service-icon-black {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 30px;
+    margin: auto;
+    display: flex;
+  }
+  .terms-of-service-text-black {
+    display: none;
+  }
+  .terms-of-service-container12 {
+    padding-right: 20px;
+  }
+  .terms-of-service-text100 {
+    display: none;
+  }
+  .terms-of-service-container15 {
+    padding-right: 20px;
+  }
+  .terms-of-service-container18 {
+    padding-right: 20px;
+  }
+  .terms-of-service-container19 {
+    padding-right: 20px;
+  }
+  .terms-of-service-container20 {
+    padding-right: 20px;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .terms-of-service-dropdown-toggle1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .terms-of-service-dropdown-list {
+    left: 20px;
+  }
+  .terms-of-service-dropdown5 {
+    display: flex;
+  }
+  .terms-of-service-icon-black {
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+    display: flex;
+  }
+  .terms-of-service-text-black {
+    display: none;
+  }
+  .terms-of-service-container12 {
+    padding-right: 20px;
+  }
+  .terms-of-service-container13 {
+    align-self: center;
+    flex-direction: column;
+  }
+  .terms-of-service-container14 {
+    align-self: flex-start;
+  }
+  .terms-of-service-container15 {
+    padding-right: 20px;
+  }
+  .terms-of-service-container16 {
+    align-self: center;
+    flex-direction: column;
+  }
+  .terms-of-service-container17 {
+    align-self: flex-start;
+  }
+  .terms-of-service-container18 {
+    padding-right: 20px;
+  }
+  .terms-of-service-text206 {
+    display: flex;
+  }
+  .terms-of-service-text207 {
+    display: flex;
+  }
+  .terms-of-service-link {
+    display: flex;
+  }
+  .terms-of-service-container19 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .terms-of-service-text208 {
+    display: flex;
+  }
+  .terms-of-service-text209 {
+    display: flex;
+  }
+  .terms-of-service-text210 {
+    display: flex;
+  }
+  .terms-of-service-container20 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .terms-of-service-text211 {
+    display: flex;
+  }
+  .terms-of-service-text212 {
+    display: flex;
+  }
+  .terms-of-service-text213 {
+    display: flex;
+  }
+  .terms-of-service-text214 {
+    padding-top: var(--dl-space-space-threeunits);
+    padding-left: 40px;
+  }
+}
